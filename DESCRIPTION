@@ -1,7 +1,7 @@
 Package: rtapas
 Title: TAPAS: A thresholding approach for probability map automatic segmentation
     automatic segmentation
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: person(given = "Alessandra", family = "Valcarcel", email = "alval@pennmedicine.upenn.edu", role = c("aut","cre"))
 Maintainer: Alessandra Valcarcel <alval@pennmedicine.upenn.edu>
 Description: Trains and makes predictions using the TAPAS
@@ -38,9 +38,9 @@ Suggests:
     spelling,
     testthat
 Remotes:
-    avalcarcel9/aliviateR
+    adigherman/aliviateR
 VignetteBuilder: knitr
 ByteCompile: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.3.2
 Language: en-US
 Roxygen: list(markdown = TRUE)
